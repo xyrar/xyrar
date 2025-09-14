@@ -15,11 +15,11 @@ I love building things with code and exploring new technologies.
 
 ## 🦀 Rust Enthusiast
 
-[![Rust Logo](https://www.rust-lang.org/logos/rust-logo-512x512.png)](https://www.rust-lang.org/)
+[![Ferris the Crab](https://raw.githubusercontent.com/rust-lang/rust-artwork/master/ferris/branding/ferris.png)](https://www.rust-lang.org/)
 
 ---
 
-## 📫 Of Interest
+## 📫 Connect with me
 
 - 🌐 [My Website](http://xyrar.rf.gd)
 - 💬 Always open to collaboration!
