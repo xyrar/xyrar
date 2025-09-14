@@ -1,8 +1,7 @@
 # 👋 Hi, I'm xyrar
 
-- 🌐 [My Website](http://xyrar.rf.gd)  
-- 🦀 Learning Rust :D  
-- 💻 Exploring code & new tech  
+- 🌐 [My Website](http://xyrar.rf.gd)   
+- 💻 having fun on my journey!  
 
 ---
 
