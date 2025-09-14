@@ -1,25 +1,17 @@
-# 👋 Hi, I'm Xyrar
+# 👋 Hi, I'm xyrar
 
-Welcome to my profile! 🚀  
-I love building things with code and exploring new technologies.  
-
----
-
-## ⚡ GitHub Stats
-
-![Xyrar's GitHub stats](https://github-readme-stats.vercel.app/api?username=xyrar&show_icons=true&theme=tokyonight)
+![Xyrar’s GitHub stats](https://github-readme-stats.vercel.app/api?username=xyrar&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xyrar&layout=compact&theme=tokyonight)
 
 ---
 
-## 🦀 Rust Enthusiast
+## 🦀 i am learning rust :D
 
-[![Ferris the Crab](https://raw.githubusercontent.com/rust-lang/rust-artwork/master/ferris/branding/ferris.png)](https://rustlings.rust-lang.org/)
+[![Happy Ferris](https://rustlings.rust-lang.org/images/happy_ferris.svg)](https://www.rust-lang.org/)
 
 ---
 
-## 📫 Connect with me
+## 📫 of interest
 
 - 🌐 [My Website](http://xyrar.rf.gd)
-- 💬 Always open to collaboration!
