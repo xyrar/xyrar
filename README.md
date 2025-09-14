@@ -2,6 +2,8 @@
 
 - 🌐 [My Website](http://xyrar.rf.gd)   
 - 💥 Learning new things
+![Profile Views](https://komarev.com/ghpvc/?username=xyrar&color=blueviolet&style=flat)
+  
 ---
 
 ## ⚡ GitHub Stats
