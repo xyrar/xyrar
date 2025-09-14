@@ -15,7 +15,7 @@ I love building things with code and exploring new technologies.
 
 ## 🦀 Rust Enthusiast
 
-[![Ferris the Crab](https://raw.githubusercontent.com/rust-lang/rust-artwork/master/ferris/branding/ferris.png)](https://www.rust-lang.org/)
+[![Ferris the Crab](https://raw.githubusercontent.com/rust-lang/rust-artwork/master/ferris/branding/ferris.png)](https://rustlings.rust-lang.org/)
 
 ---
 
