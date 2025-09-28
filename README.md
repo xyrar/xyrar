@@ -18,7 +18,3 @@
   <a href="https://www.rust-lang.org/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="60" height="60"/>
   </a>
-  <a href="https://en.cppreference.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/>
-  </a>
-</p>
