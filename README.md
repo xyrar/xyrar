@@ -16,5 +16,6 @@
 
 <p align="center">
   <a href="https://www.rust-lang.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="60" height="60"/>
+    <img src="https://raw.githubusercontent.com/rust-lang/rust-artwork/master/logo/rust-logo-blk.svg" alt="rust" width="65" height="65"/>
   </a>
+</p>
