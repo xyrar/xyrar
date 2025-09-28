@@ -1,9 +1,28 @@
-# 👋 Hi, I'm xyrar
+<h1 align="center">Hey 👋, I'm xyrar!</h1>
 
-I am learning to code in rust. :D
-
-adding to my website
+<p align="center">
+  <a href="https://github.com/xyrar">
+    <img src="https://github-readme-stats.vercel.app/api?username=xyrar&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true" alt="GitHub Stats" />
+  </a>
+</p>
 
 ---
 
-![Xyrar’s GitHub stats](https://github-readme-stats.vercel.app/api?username=xyrar&show_icons=true&theme=tokyonight)
+<h3 align="center">Languages I Understand / am learning :D</h3>
+
+<p align="center">
+  <a href="https://www.rust-lang.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="60" height="60"/>
+  </a>
+  <a href="https://en.cppreference.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/>
+  </a>
+</p>
+
+---
+
+<h3 align="center">Contributions</h3>
+
+<p align="center">
+  <img src="https://github.com/xyrar/xyrar/blob/output/github-contribution-grid-snake.svg" alt="Contribution Graph"/>
+</p>
