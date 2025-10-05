@@ -6,4 +6,4 @@
    - 🦀 Rust
    - ⭐ Javascript
 
-← Ferris happy
+← Happy Ferris 😃
