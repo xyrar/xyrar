@@ -1,4 +1,5 @@
-👋 Hi there! I'm xyrar, trying to make useful thing :D
+👋 Hi there! I'm xyrar, making useful things :D
+   .. trying to 🫡
 
 🤔 I know a decent amount about these (coding) languages: 
    - 🦀 Rust
