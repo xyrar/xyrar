@@ -1,6 +1,4 @@
-hello im xyrar
+👋
+ helo im xyrar
 
-🤔 I use:
-   -  javascript hobby stuff
-   -  java rarely
-
+🤔 Im interested in node.js, and like to code in javascript I sometimes use java.
