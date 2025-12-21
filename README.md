@@ -1,6 +1,6 @@
 👋
 Im, xyrar
 
-java
-rust
+java,
+rust,
 c++
